@@ -1,6 +1,7 @@
 # ML Model Experiments Documentation
 
-This document provides details on the two LSTM-based forecasting models, **M1** and **M2**, used in the AI Accountability Map project.
+This document provides details on the two LSTM-based forecasting models, **M1** and **M2**, used in the AI Accountability Map project. Datasets were obtained form a study by <a href="https://www.nature.com/articles/s41597-022-01696-6},
+	doi = {10.1038/s41597-022-01696-6"> Chen & Xu 2022 <\a>.
 
 ---
 

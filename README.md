@@ -32,7 +32,7 @@ Model 1 (M1) forecasts PV generation using **statistical preprocessing methods**
 **Notebook:** `M2 Experiment.ipynb`
 
 ### **Overview**
-Model 2 (M2) forecasts PV generation using **AI-driven data preprocessing** techniques, leveraging advanced feature extraction and selection.
+Model 2 (M2) forecasts PV generation using **Advanced-driven data preprocessing** techniques, leveraging advanced feature extraction and selection.
 
 ### **Contents**
 - Data Loading and AI-based Preprocessing
@@ -43,9 +43,9 @@ Model 2 (M2) forecasts PV generation using **AI-driven data preprocessing** tech
 - Forecasting Results and Visualizations
 
 ### **Key Notes**
-- **Preprocessing:** Incorporates AI-driven feature engineering and data cleaning.
+- **Preprocessing:** Incorporates advanced feature engineering, data cleaning and hyperparameters.
 - **Data Split:** 70% training, 15% validation, 15% test.
-- **Goal:** Improved performance and generalization compared to M1.
+- **Goal:** Test performance and generalization compared to M1.
 
 ---
 
